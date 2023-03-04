@@ -1,0 +1,3 @@
+THis game is made using pygame library.
+
+I have made a simple snake game using python under 70 lines of Code . Happy Learning !!
